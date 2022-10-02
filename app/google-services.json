@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598146164669",
+    "project_id": "qr-and-barcode-scanner-ultra",
+    "storage_bucket": "qr-and-barcode-scanner-ultra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598146164669:android:ac3018b6a1d87c234dd4d4",
+        "android_client_info": {
+          "package_name": "qrcodescanner.masterteam.com.masterandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598146164669-cm7ln4nu1o9jukditmjegrlvgs1ft4sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTyI4i1wfUBDWm23BTQD1et-0WbiaxuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598146164669-cm7ln4nu1o9jukditmjegrlvgs1ft4sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
