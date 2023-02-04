@@ -4,8 +4,8 @@
    https://play.google.com/store/apps/details?id=qrcodescanner.masterteam.com.masterandroid
    
   
-#Screenshots
+# Screenshots
 
-![ezgif-5-bfa8b1d4bc](https://user-images.githubusercontent.com/97915515/216787397-1d3100c5-df0b-4800-a9d6-5f0318edc6db.jpg)
+![ezgif-5-bfa8b1d4bc](https://user-images.githubusercontent.com/97915515/216787397-1d3100c5-df0b-4800-a9d6-5f0318edc6db.jpg) ![ezgif-5-4ca1474706](https://user-images.githubusercontent.com/97915515/216787401-162831d6-8e67-4eab-9df8-f59097f261a9.jpg)
 
-![ezgif-5-4ca1474706](https://user-images.githubusercontent.com/97915515/216787401-162831d6-8e67-4eab-9df8-f59097f261a9.jpg)
+
