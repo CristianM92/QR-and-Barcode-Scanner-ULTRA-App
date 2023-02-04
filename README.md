@@ -3,4 +3,4 @@
    
    https://play.google.com/store/apps/details?id=qrcodescanner.masterteam.com.masterandroid
    
-   ![Alt text](/relative/path/to/screenshot.webp?raw=true "Optional Title")
+  
